@@ -1,0 +1,36 @@
+
+
+.div-style{
+	background-color:#D9DFE0;
+	width:900px; 
+	margin-left: 150px; 
+	font-size: 17px;
+	padding-left:30px;
+	
+
+}
+.div-style-alt{
+	background-color:#F4F4DE;
+    width:900px; 
+	margin-left: 150px; 
+	font-size: 17px;
+
+	padding-left:30px;
+	/*border-left-style:solid;
+	border-right-style: solid;*/
+
+}
+.header{
+	text-align: center;
+	border:solid;
+	margin-left: 150px;
+	margin-right: 276px;
+	background-color: #D8BEF4;
+}
+
+/*.img{
+	margin-left: 250px;
+}*/
+.c{
+		font-color:#3521ED;
+}
